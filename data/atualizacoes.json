@@ -1,1 +1,38 @@
-{}
+{
+    "atletismo":  {
+                      "patch":  {
+                                    "records":  [
+                                                    "100 m masculino|9,58 s · Usain Bolt (2009)",
+                                                    "100 m feminino|10,49 s · Florence Griffith-Joyner (1988)",
+                                                    "110 m c/ barreiras masc.|12,75 s · Ja\u0027Kobe Tharp (Eugene, 10/06/2026)",
+                                                    "400 m c/ barreiras masc.|45,80 s · Alison dos Santos (Zurique, 27/08/2026) · aguardando homologação; homologado: 45,94 s, Karsten Warholm (2021)",
+                                                    "400 m c/ barreiras fem.|50,37 s · Sydney McLaughlin-Levrone (2024)",
+                                                    "1.500 m feminino|3:48,68 · Faith Kipyegon (Eugene, 05/07/2025)",
+                                                    "Maratona masculina|1:59:30 · Sabastian Sawe (Londres, 26/04/2026), primeira abaixo de 2 horas",
+                                                    "Salto com vara masc.|6,31 m · Armand Duplantis (Uppsala, 12/03/2026)"
+                                                ],
+                                    "rules":  [
+                                                  "Revezamento misto da marcha estreou em Paris 2024",
+                                                  "LA 2028: a marcha passa a ser disputada na meia maratona (21,1 km), no lugar dos 20 km"
+                                              ]
+                                },
+                      "log":  [
+                                  {
+                                      "at":  "2026-09-28T15:55:16.7082424-03:00",
+                                      "by":  "manual",
+                                      "changes":  [
+                                                      "Recorde dos 110 m com barreiras: 12,75 s de Ja\u0027Kobe Tharp (2026)",
+                                                      "Recorde da maratona: 1:59:30 de Sabastian Sawe (2026)",
+                                                      "Recorde dos 1.500 m feminino: 3:48,68 de Faith Kipyegon (2025)",
+                                                      "Recorde de Alison dos Santos marcado como aguardando homologação",
+                                                      "Marcha em LA 2028 passa para a meia maratona"
+                                                  ],
+                                      "sources":  [
+                                                      "https://worldathletics.org/records/by-category/world-records",
+                                                      "https://en.wikipedia.org/wiki/Athletics_at_the_2028_Summer_Olympics"
+                                                  ]
+                                  }
+                              ],
+                      "updatedAt":  "2026-09-28T15:55:16.7119317-03:00"
+                  }
+}
