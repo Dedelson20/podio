@@ -1,38 +1,181 @@
 {
-    "atletismo":  {
-                      "patch":  {
-                                    "records":  [
-                                                    "100 m masculino|9,58 s · Usain Bolt (2009)",
-                                                    "100 m feminino|10,49 s · Florence Griffith-Joyner (1988)",
-                                                    "110 m c/ barreiras masc.|12,75 s · Ja\u0027Kobe Tharp (Eugene, 10/06/2026)",
-                                                    "400 m c/ barreiras masc.|45,80 s · Alison dos Santos (Zurique, 27/08/2026) · aguardando homologação; homologado: 45,94 s, Karsten Warholm (2021)",
-                                                    "400 m c/ barreiras fem.|50,37 s · Sydney McLaughlin-Levrone (2024)",
-                                                    "1.500 m feminino|3:48,68 · Faith Kipyegon (Eugene, 05/07/2025)",
-                                                    "Maratona masculina|1:59:30 · Sabastian Sawe (Londres, 26/04/2026), primeira abaixo de 2 horas",
-                                                    "Salto com vara masc.|6,31 m · Armand Duplantis (Uppsala, 12/03/2026)"
-                                                ],
-                                    "rules":  [
-                                                  "Revezamento misto da marcha estreou em Paris 2024",
-                                                  "LA 2028: a marcha passa a ser disputada na meia maratona (21,1 km), no lugar dos 20 km"
-                                              ]
-                                },
-                      "log":  [
-                                  {
-                                      "at":  "2026-09-28T15:55:16.7082424-03:00",
-                                      "by":  "manual",
-                                      "changes":  [
-                                                      "Recorde dos 110 m com barreiras: 12,75 s de Ja\u0027Kobe Tharp (2026)",
-                                                      "Recorde da maratona: 1:59:30 de Sabastian Sawe (2026)",
-                                                      "Recorde dos 1.500 m feminino: 3:48,68 de Faith Kipyegon (2025)",
-                                                      "Recorde de Alison dos Santos marcado como aguardando homologação",
-                                                      "Marcha em LA 2028 passa para a meia maratona"
-                                                  ],
-                                      "sources":  [
-                                                      "https://worldathletics.org/records/by-category/world-records",
-                                                      "https://en.wikipedia.org/wiki/Athletics_at_the_2028_Summer_Olympics"
-                                                  ]
-                                  }
-                              ],
-                      "updatedAt":  "2026-09-28T15:55:16.7119317-03:00"
-                  }
+  "atletismo": {
+    "patch": {
+      "records": [
+        "100 m masculino|9,58 s · Usain Bolt (2009)",
+        "100 m feminino|10,49 s · Florence Griffith-Joyner (1988)",
+        "110 m c/ barreiras masc.|12,75 s · Ja'Kobe Tharp (Eugene, 10/06/2026)",
+        "400 m c/ barreiras masc.|45,80 s · Alison dos Santos (Zurique, 27/08/2026) · aguardando homologação; homologado: 45,94 s, Karsten Warholm (2021)",
+        "400 m c/ barreiras fem.|50,37 s · Sydney McLaughlin-Levrone (2024)",
+        "1.500 m feminino|3:48,68 · Faith Kipyegon (Eugene, 05/07/2025)",
+        "Maratona masculina|1:59:30 · Sabastian Sawe (Londres, 26/04/2026), primeira abaixo de 2 horas",
+        "Salto com vara masc.|6,31 m · Armand Duplantis (Uppsala, 12/03/2026)"
+      ],
+      "rules": [
+        "Revezamento misto da marcha estreou em Paris 2024",
+        "LA 2028: a marcha passa a ser disputada na meia maratona (21,1 km), no lugar dos 20 km"
+      ],
+      "athletes": [
+        "Usain Bolt|JAM|8 ouros; recordista de 100 e 200 m",
+        "Armand Duplantis|SWE|bicampeão olímpico; 15 recordes mundiais no salto com vara",
+        "Faith Kipyegon|KEN|tricampeã dos 1.500 m",
+        "Sydney McLaughlin-Levrone|USA|bicampeã dos 400 m c/ barreiras",
+        "Alison dos Santos|BRA|recordista mundial dos 400 m c/ barreiras; campeão do Mundial Ultimate (Budapeste, 13/09/2026) com 45,98 s; bronze olímpico em 2020 e 2024",
+        "Caio Bonfim|BRA|prata na marcha 20 km em Paris 2024"
+      ]
+    },
+    "log": [
+      {
+        "at": "2026-09-28T15:55:16.7082424-03:00",
+        "by": "manual",
+        "changes": [
+          "Recorde dos 110 m com barreiras: 12,75 s de Ja'Kobe Tharp (2026)",
+          "Recorde da maratona: 1:59:30 de Sabastian Sawe (2026)",
+          "Recorde dos 1.500 m feminino: 3:48,68 de Faith Kipyegon (2025)",
+          "Recorde de Alison dos Santos marcado como aguardando homologação",
+          "Marcha em LA 2028 passa para a meia maratona"
+        ],
+        "sources": [
+          "https://worldathletics.org/records/by-category/world-records",
+          "https://en.wikipedia.org/wiki/Athletics_at_the_2028_Summer_Olympics"
+        ]
+      },
+      {
+        "at": "2026-09-28T18:35:27-03:00",
+        "by": "auto",
+        "changes": [
+          "Alison dos Santos campeão do Mundial Ultimate em Budapeste (13/09/2026), com 45,98 s"
+        ],
+        "sources": [
+          "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/melhor-entre-os-melhores-alison-dos-santos-e-campeao-do-ultimate-2026",
+          "https://www.nbcsports.com/olympics/news/world-athletics-ultimate-championship-results-2026"
+        ]
+      }
+    ],
+    "updatedAt": "2026-09-28T18:35:27-03:00"
+  },
+  "natacao": {
+    "patch": {
+      "records": [
+        "50 m livre masc.|20,91 s · César Cielo (2009)",
+        "100 m livre masc.|46,40 s · Pan Zhanle (2024)",
+        "200 m peito masc.|2:04,83 · Shin Ohashi (Tóquio, 24/09/2026), primeiro abaixo de 2:05",
+        "1.500 m livre masc.|14:30,67 · Bobby Finke (2024)",
+        "800 m livre fem.|8:04,12 · Katie Ledecky (2025)",
+        "Mais ouros olímpicos|23 · Michael Phelps"
+      ],
+      "promises": [
+        "Summer McIntosh|CAN|candidata a várias medalhas em LA 2028",
+        "Yu Zidi|CHN|disputou Mundial aos 12 anos",
+        "Shin Ohashi|JPN|recordista mundial dos 200 m peito aos 17 anos (Jogos Asiáticos 2026)",
+        "Guilherme Caribé|BRA|velocista dos 100 m livre"
+      ]
+    },
+    "log": [
+      {
+        "at": "2026-09-28T18:35:27-03:00",
+        "by": "auto",
+        "changes": [
+          "Recorde mundial dos 200 m peito: 2:04,83 de Shin Ohashi (24/09/2026), superando 2:05,48 de Qin Haiyang",
+          "Shin Ohashi incluído entre as promessas"
+        ],
+        "sources": [
+          "https://www.olympics.com/en/news/asian-games-ohashi-shin-breaks-world-record-200m-breaststroke",
+          "https://www.espn.com/olympics/story/_/id/50018794/japan-shin-ohashi-sets-world-record-200-meter-breaststroke",
+          "https://www.japantimes.co.jp/asian-games/2026/09/24/ohashi-200m-world-record/"
+        ]
+      }
+    ],
+    "updatedAt": "2026-09-28T18:35:27-03:00"
+  },
+  "ginastica": {
+    "patch": {
+      "athletes": [
+        "Simone Biles|USA|7 ouros, 11 medalhas",
+        "Rebeca Andrade|BRA|6 medalhas, maior medalhista olímpica do Brasil",
+        "Kohei Uchimura|JPN|bicampeão do individual geral",
+        "Arthur Zanetti|BRA|ouro nas argolas em 2012",
+        "Flávia Saraiva|BRA|bronze por equipes em 2024",
+        "Conjunto de ginástica rítmica|BRA|campeão mundial nas 5 bolas e na série mista (Frankfurt, 16/08/2026), primeiro título das Américas"
+      ],
+      "promises": [
+        "Hezly Rivera|USA|nova geração americana",
+        "Kaylia Nemour|ALG|campeã nas barras em 2024",
+        "Júlia Soares|BRA|trave e solo",
+        "Conjunto de ginástica rítmica|BRA|chega a LA 2028 como campeão mundial"
+      ]
+    },
+    "log": [
+      {
+        "at": "2026-09-28T18:35:27-03:00",
+        "by": "auto",
+        "changes": [
+          "Conjunto brasileiro de ginástica rítmica campeão mundial nas 5 bolas e na série mista (Frankfurt, 16/08/2026)"
+        ],
+        "sources": [
+          "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/brasil-faz-historia-e-leva-dois-ouros-no-mundial-de-ginastica-ritmica",
+          "https://www.olympics.com/pt/noticias/mundial-ginastica-ritmica-2026-brasil-campeao-mundial"
+        ]
+      }
+    ],
+    "updatedAt": "2026-09-28T18:35:27-03:00"
+  },
+  "taekwondo": {
+    "patch": {
+      "athletes": [
+        "Hadi Saei|IRI|bicampeão",
+        "Jade Jones|GBR|bicampeã",
+        "Natália Falavigna|BRA|bronze em 2008, primeira medalha do Brasil",
+        "Maicon Siqueira|BRA|bronze em 2016",
+        "Maria Clara Pacheco|BRA|campeã mundial até 57 kg em 2025 (Wuxi)",
+        "Henrique Marques|BRA|campeão mundial até 80 kg em 2025 (Wuxi)"
+      ],
+      "promises": [
+        "Edival Pontes|BRA|4º lugar em Tóquio 2020",
+        "Maria Clara Pacheco|BRA|8 títulos em 9 torneios desde Paris 2024, incluindo o GP de Muju (06/09/2026)"
+      ]
+    },
+    "log": [
+      {
+        "at": "2026-09-28T18:35:27-03:00",
+        "by": "auto",
+        "changes": [
+          "Incluídos os campeões mundiais de 2025 Maria Clara Pacheco (57 kg) e Henrique Marques (80 kg)",
+          "Maria Clara Pacheco venceu o GP de Muju (06/09/2026)"
+        ],
+        "sources": [
+          "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/maria-clara-pacheco-mantem-hegemonia-no-ciclo-olimpico-do-taekwondo",
+          "https://www.olympics.com/pt/noticias/maria-clara-pacheco-entrevista-protagonismo-taekwondo-mundial-2025",
+          "https://jornaldebrasilia.com.br/torcida/henrique-marques-e-eleito-melhor-taekwondista-do-mundo-em-2025/"
+        ]
+      }
+    ],
+    "updatedAt": "2026-09-28T18:35:27-03:00"
+  },
+  "ciclismo": {
+    "patch": {
+      "athletes": [
+        "Chris Hoy|GBR|6 ouros",
+        "Remco Evenepoel|BEL|ouro na estrada e no contrarrelógio em 2024",
+        "Harrie Lavreysen|NED|3 ouros em Paris 2024",
+        "Pauline Ferrand-Prévot|FRA|ouro no MTB 2024",
+        "Brandon McNulty|USA|campeão mundial de estrada (Montreal, 27/09/2026), primeiro americano em 33 anos",
+        "Henrique Avancini|BRA|referência do MTB brasileiro"
+      ]
+    },
+    "log": [
+      {
+        "at": "2026-09-28T18:35:27-03:00",
+        "by": "auto",
+        "changes": [
+          "Brandon McNulty campeão mundial de estrada em Montreal (27/09/2026)"
+        ],
+        "sources": [
+          "https://www.cyclingnews.com/pro-cycling/live/road-world-championships-2026-elite-mens-road-race-live-who-will-be-pogacars-successor-the-battle-for-the-rainbow-jersey-ignites-in-montreal/",
+          "https://www.flobikes.com/articles/16213246-who-won-the-men-elite-road-race-at-the-2026-uci-road-worlds"
+        ]
+      }
+    ],
+    "updatedAt": "2026-09-28T18:35:27-03:00"
+  }
 }
