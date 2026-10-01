@@ -57,9 +57,9 @@
   "natacao": {
     "patch": {
       "records": [
-        "50 m livre masc.|20,91 s · César Cielo (2009)",
+        "50 m livre masc.|20,88 s · Cameron McEvoy (Shenzhen, 20/03/2026); superou os 20,91 s de César Cielo, que duravam desde 2009",
         "100 m livre masc.|46,40 s · Pan Zhanle (2024)",
-        "200 m peito masc.|2:04,83 · Shin Ohashi (Tóquio, 24/09/2026), primeiro abaixo de 2:05",
+        "200 m peito masc.|2:04,83 · Shin Ohashi (Tóquio, 24/09/2026), primeiro abaixo de 2:05 · aguardando homologação; homologado: 2:05,48, Qin Haiyang (2023)",
         "1.500 m livre masc.|14:30,67 · Bobby Finke (2024)",
         "800 m livre fem.|8:04,12 · Katie Ledecky (2025)",
         "Mais ouros olímpicos|23 · Michael Phelps"
@@ -84,9 +84,23 @@
           "https://www.espn.com/olympics/story/_/id/50018794/japan-shin-ohashi-sets-world-record-200-meter-breaststroke",
           "https://www.japantimes.co.jp/asian-games/2026/09/24/ohashi-200m-world-record/"
         ]
+      },
+      {
+        "at": "2026-09-30T22:33:52-03:00",
+        "by": "manual",
+        "changes": [
+          "Recorde mundial dos 50 m livre: 20,88 s de Cameron McEvoy (Shenzhen, 20/03/2026), superando os 20,91 s de César Cielo (2009)",
+          "Recorde de Shin Ohashi nos 200 m peito marcado como aguardando homologação"
+        ],
+        "sources": [
+          "https://www.espn.com/olympics/story/_/id/48264390/olympic-champ-mcevoy-breaks-50-meter-freestyle-world-record",
+          "https://www.nbcsports.com/olympics/news/cameron-mcevoy-world-record-50-meter-freestyle-swimming",
+          "https://ohoje.com/2026/03/20/recorde-mundial-cesar-cielo/",
+          "https://en.wikipedia.org/wiki/List_of_world_records_in_swimming"
+        ]
       }
     ],
-    "updatedAt": "2026-09-28T18:35:27-03:00"
+    "updatedAt": "2026-09-30T22:33:52-03:00"
   },
   "ginastica": {
     "patch": {
