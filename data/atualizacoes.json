@@ -3,6 +3,7 @@
     "patch": {
       "records": [
         "100 m masculino|9,58 s · Usain Bolt (2009)",
+        "200 m masculino|19,19 s · Usain Bolt (2009)",
         "100 m feminino|10,49 s · Florence Griffith-Joyner (1988)",
         "110 m c/ barreiras masc.|12,75 s · Ja'Kobe Tharp (Eugene, 10/06/2026)",
         "400 m c/ barreiras masc.|45,80 s · Alison dos Santos (Zurique, 27/08/2026) · aguardando homologação; homologado: 45,94 s, Karsten Warholm (2021)",
@@ -50,9 +51,19 @@
           "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/melhor-entre-os-melhores-alison-dos-santos-e-campeao-do-ultimate-2026",
           "https://www.nbcsports.com/olympics/news/world-athletics-ultimate-championship-results-2026"
         ]
+      },
+      {
+        "at": "2026-09-30T22:39:37-03:00",
+        "by": "manual",
+        "changes": [
+          "Recorde dos 200 m masculino (19,19 s, Usain Bolt) restaurado na lista, de onde havia saído por engano"
+        ],
+        "sources": [
+          "https://en.wikipedia.org/wiki/List_of_world_records_in_athletics"
+        ]
       }
     ],
-    "updatedAt": "2026-09-28T18:35:27-03:00"
+    "updatedAt": "2026-09-30T22:39:37-03:00"
   },
   "natacao": {
     "patch": {
@@ -60,7 +71,7 @@
         "50 m livre masc.|20,88 s · Cameron McEvoy (Shenzhen, 20/03/2026); superou os 20,91 s de César Cielo, que duravam desde 2009",
         "100 m livre masc.|46,40 s · Pan Zhanle (2024)",
         "200 m peito masc.|2:04,83 · Shin Ohashi (Tóquio, 24/09/2026), primeiro abaixo de 2:05 · aguardando homologação; homologado: 2:05,48, Qin Haiyang (2023)",
-        "1.500 m livre masc.|14:30,67 · Bobby Finke (2024)",
+        "1.500 m livre masc.|14:26,79 · Johannes Liebmann (Paris, 15/08/2026), primeiro abaixo de 14:30",
         "800 m livre fem.|8:04,12 · Katie Ledecky (2025)",
         "Mais ouros olímpicos|23 · Michael Phelps"
       ],
@@ -98,9 +109,21 @@
           "https://ohoje.com/2026/03/20/recorde-mundial-cesar-cielo/",
           "https://en.wikipedia.org/wiki/List_of_world_records_in_swimming"
         ]
+      },
+      {
+        "at": "2026-09-30T22:39:37-03:00",
+        "by": "manual",
+        "changes": [
+          "Recorde mundial dos 1.500 m livre: 14:26,79 de Johannes Liebmann (Paris, 15/08/2026), superando os 14:30,67 de Bobby Finke"
+        ],
+        "sources": [
+          "https://www.abc.net.au/news/2026-08-16/johannes-liebmann-breaks-world-record-mens-1500m-freestyle/107043220",
+          "https://europeanaquatics.org/paris-2026/paris-2026-marchand-delivers-gold-and-liebmann-crushes-mens-1500m-world-record-on-day-six/",
+          "https://kfgo.com/2026/08/15/swimming-germanys-liebmann-smashes-1500m-world-record/"
+        ]
       }
     ],
-    "updatedAt": "2026-09-30T22:33:52-03:00"
+    "updatedAt": "2026-09-30T22:39:37-03:00"
   },
   "ginastica": {
     "patch": {
@@ -175,6 +198,11 @@
         "Pauline Ferrand-Prévot|FRA|ouro no MTB 2024",
         "Brandon McNulty|USA|campeão mundial de estrada (Montreal, 27/09/2026), primeiro americano em 33 anos",
         "Henrique Avancini|BRA|referência do MTB brasileiro"
+      ],
+      "records": [
+        "Mais ouros|Jason Kenny (GBR) · 7",
+        "200 m lançados|8,857 s · Matthew Richardson (Konya, 15/08/2025), primeiro abaixo de 9 s",
+        "Recorde da hora masc.|56,792 km · Filippo Ganna (2022)"
       ]
     },
     "log": [
@@ -188,8 +216,150 @@
           "https://www.cyclingnews.com/pro-cycling/live/road-world-championships-2026-elite-mens-road-race-live-who-will-be-pogacars-successor-the-battle-for-the-rainbow-jersey-ignites-in-montreal/",
           "https://www.flobikes.com/articles/16213246-who-won-the-men-elite-road-race-at-the-2026-uci-road-worlds"
         ]
+      },
+      {
+        "at": "2026-09-30T22:39:37-03:00",
+        "by": "manual",
+        "changes": [
+          "Recorde dos 200 m lançados: 8,857 s de Matthew Richardson (Konya, 15/08/2025), superando os 9,088 s de Harrie Lavreysen"
+        ],
+        "sources": [
+          "https://www.cyclingweekly.com/news/matthew-richardson-breaks-flying-200m-world-record-again-24-hours-later",
+          "https://www.bikeradar.com/news/matthew-richardson-breaks-his-own-200m-world-record-24-hours-later",
+          "https://www.guinnessworldrecords.com/world-records/cycling-200-m-unpaced-flying-start-men"
+        ]
       }
     ],
-    "updatedAt": "2026-09-28T18:35:27-03:00"
+    "updatedAt": "2026-09-30T22:39:37-03:00"
+  },
+  "escalada": {
+    "patch": {
+      "records": [
+        "Janja Garnbret|bicampeã (2020 e 2024)",
+        "Velocidade masc.|4,54 s · Zhao Yicheng (Wujiang, 10/05/2026)",
+        "Velocidade fem.|5,99 s · Emma Hunt (Cracóvia, 04/07/2026), primeira abaixo de 6 s"
+      ]
+    },
+    "log": [
+      {
+        "at": "2026-09-30T22:39:37-03:00",
+        "by": "manual",
+        "changes": [
+          "Recorde da velocidade masculina: 4,54 s de Zhao Yicheng (10/05/2026)",
+          "Recorde da velocidade feminina: 5,99 s de Emma Hunt (04/07/2026), superando os 6,03 s de Aleksandra Mirosław"
+        ],
+        "sources": [
+          "https://www.olympics.com/en/news/climbing-zhao-yicheng-mens-speed-world-record-wujiang-gold-medal",
+          "https://gripped.com/profiles/new-world-record-for-16-year-old-speed-climber/",
+          "https://www.olympics.com/en/news/climbing-emma-hunt-women-speed-climbing-word-record",
+          "https://www.nbcsports.com/olympics/news/emma-hunt-speed-climbing-world-record"
+        ]
+      }
+    ],
+    "updatedAt": "2026-09-30T22:39:37-03:00"
+  },
+  "short-track": {
+    "patch": {
+      "records": [
+        "Mais medalhas|Arianna Fontana (ITA) · 14, a maior medalhista olímpica da Itália"
+      ],
+      "athletes": [
+        "Viktor Ahn|RUS/KOR|6 ouros",
+        "Arianna Fontana|ITA|14 medalhas em seis Jogos; ouro no revezamento misto em 2026",
+        "Choi Min-jeong|KOR|tricampeã"
+      ]
+    },
+    "log": [
+      {
+        "at": "2026-09-30T22:39:37-03:00",
+        "by": "manual",
+        "changes": [
+          "Arianna Fontana chega a 14 medalhas olímpicas em Milão-Cortina 2026 (1 ouro e 2 pratas)"
+        ],
+        "sources": [
+          "https://www.olympics.com/en/milano-cortina-2026/news/winter-olympics-short-track-speed-skating-women-italy-arianna-fontana-speechless-14-olympic-medals",
+          "https://en.wikipedia.org/wiki/Arianna_Fontana"
+        ]
+      }
+    ],
+    "updatedAt": "2026-09-30T22:39:37-03:00"
+  },
+  "hoquei-gelo": {
+    "patch": {
+      "records": [
+        "Canadá masculino|9 ouros",
+        "Canadá feminino|5 ouros",
+        "EUA em 2026|ouro no masculino e no feminino, as duas finais contra o Canadá na prorrogação; o masculino foi o primeiro desde 1980",
+        "'Milagre no Gelo'|EUA venceu a URSS em 1980"
+      ]
+    },
+    "log": [
+      {
+        "at": "2026-09-30T22:39:37-03:00",
+        "by": "manual",
+        "changes": [
+          "EUA campeões olímpicos no masculino (22/02/2026) e no feminino (19/02/2026), ambos por 2 a 1 sobre o Canadá na prorrogação"
+        ],
+        "sources": [
+          "https://www.olympics.com/en/milano-cortina-2026/news/winter-olympics-2026-usa-defeat-canada-2-1-overtime-win-womens-ice-hockey-gold",
+          "https://www.cnn.com/sport/live-news/milan-winter-olympics-results-highlights-medals-02-22-26"
+        ]
+      }
+    ],
+    "updatedAt": "2026-09-30T22:39:37-03:00"
+  },
+  "skeleton": {
+    "patch": {
+      "records": [
+        "Mais ouros|Lizzy Yarnold e Matt Weston (GBR) · 2"
+      ],
+      "athletes": [
+        "Lizzy Yarnold|GBR|bicampeã",
+        "Matt Weston|GBR|ouro no individual e nas equipes mistas em 2026",
+        "Janine Flock|AUT|ouro em 2026, aos 36 anos",
+        "Martins Dukurs|LAT|multicampeão da Copa do Mundo",
+        "Christopher Grotheer|GER|ouro em 2022, bronze em 2026"
+      ]
+    },
+    "log": [
+      {
+        "at": "2026-09-30T22:39:37-03:00",
+        "by": "manual",
+        "changes": [
+          "Matt Weston bicampeão em 2026 (individual e equipes mistas) e Janine Flock campeã no feminino"
+        ],
+        "sources": [
+          "https://www.olympics.com/en/milano-cortina-2026/news/winter-olympics-2026-matt-weston-wins-skeleton-gold-team-gb",
+          "https://www.nbcolympics.com/news/olympic-skeleton-milan-cortina-2026-biggest-stories-highlights-replays-medal-results-and-top-athletes"
+        ]
+      }
+    ],
+    "updatedAt": "2026-09-30T22:39:37-03:00"
+  },
+  "bobsled": {
+    "patch": {
+      "records": [
+        "Mais ouros entre pilotos|Francesco Friedrich e André Lange (GER) · 4 cada"
+      ],
+      "athletes": [
+        "Francesco Friedrich|GER|4 ouros (2018 e 2022) e 2 pratas (2026)",
+        "Kaillie Humphries|USA|3 ouros",
+        "Seleção da Jamaica|JAM|história de 1988 virou filme"
+      ]
+    },
+    "log": [
+      {
+        "at": "2026-09-30T22:39:37-03:00",
+        "by": "manual",
+        "changes": [
+          "Francesco Friedrich ganha duas pratas em 2026 e fica com 4 ouros, empatado com André Lange"
+        ],
+        "sources": [
+          "https://www.olympics.com/en/milano-cortina-2026/news/winter-olympics-2026-team-johannes-lochner-wins-four-man-bobsleigh-gold",
+          "https://en.wikipedia.org/wiki/Francesco_Friedrich"
+        ]
+      }
+    ],
+    "updatedAt": "2026-09-30T22:39:37-03:00"
   }
 }
